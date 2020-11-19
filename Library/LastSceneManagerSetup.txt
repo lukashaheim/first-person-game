@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/First Person 3D game.unity
+  isLoaded: 1
+  isActive: 1
